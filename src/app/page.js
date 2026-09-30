@@ -39,7 +39,7 @@ export default function Home() {
       <p className='AuthorSub'>American, 2002, 2005</p>  
       <h1 className='Title'>Housewarming</h1>
       <p className='date'>Friday, October 2nd, 2026</p>
-      <p className = 'Body'>3044 W. North Avenue, Unit B — 8 PM until late.</p>
+      <p className = 'Body'>3044 W. North Avenue, Unit B. 8:30 PM until late. Roommates and friends welcome.</p>
       <p className='Sub'>Private Collection</p>
         
       </div>
