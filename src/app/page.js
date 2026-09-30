@@ -38,7 +38,7 @@ export default function Home() {
       <h2 className='Author'>Darrin Zhou and Joseph Bogdan</h2>
       <p className='AuthorSub'>American, 2002, 2005</p>  
       <h1 className='Title'>Housewarming</h1>
-      <p className='date'>Friday, September 30th, 2026</p>
+      <p className='date'>Friday, October 2nd, 2026</p>
       <p className = 'Body'>3044 W. North Avenue, Unit B. 8 PM until late.</p>
       <p className='Sub'>Private Collection</p>
         
